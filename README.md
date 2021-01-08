@@ -1,6 +1,6 @@
 ## about me
 
-im kaan, spending time with java. free time with javascript, code injection and reverse engineering.
+im aidujsaa, spending time with java. free time with javascript, code injection and reverse engineering.
 
 - discord: [aidujsaa#4159](https://discord.com/users/736175983870083093)
 - youtube: [aidujsaa](https://www.youtube.com/channel/UCdbH53T-h3OsnZe_2BpLzsQ?view_as=subscriber)
